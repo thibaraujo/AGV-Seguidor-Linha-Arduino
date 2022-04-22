@@ -23,10 +23,22 @@
 <br>
 <img src="https://user-images.githubusercontent.com/86898996/164798833-40789bc1-d369-4f58-a18b-fcee09c77d56.png">
 
-### Assistir ao vídeo de funcionamento do VSL-TS
-<a href="https://youtu.be/_h_vWjWKDpU"><img src=""></a>
+## Assistir ao vídeo de funcionamento do VSL-TS
+<br>
+<a href="https://youtu.be/_h_vWjWKDpU"><img src="https://user-images.githubusercontent.com/86898996/164801059-acf67a4f-ca62-4e5e-b78b-8947ab6e8c8d.jpeg"></a>
 
 ### Desenvolvedores
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O AGV VSL-TS foi desenvolvido no ano de 2019, por um grupo composto por: Luiz Otávio de Oliveira Domingos, Ryan Alves Mazzeu, Samuel Bárbara e Thiago Batista Araújo. Todos os integrantes do grupo tiveram interferência em todos os setores do projeto (mecânica, eletrônica e software).
 </p>
+<br>
+<img src="https://user-images.githubusercontent.com/86898996/164801125-73f80b82-297d-4cb2-a41b-d2d0d207affd.jpeg">
+
+<b>Redes Sociais dos envolvidos:</b>
+<br>
+Integrante  |  Rede Social
+----------  |  -------------------------
+Luiz Otávio | <a href="https://www.instagram.com/l_odomingos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+Ryan        | <a href="https://www.facebook.com/RyanAlvesMazzeu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+Samuel      | <a href="https://www.instagram.com/samuelbarbado/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+Thiago      | <a href="https://www.instagram.com/thi_baraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
