@@ -21,5 +21,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A estrutura eletrônica principal do VSL-TS é composta basicamente por <a href="https://www.vishay.com/docs/83760/tcrt5000.pdf">módulos de sensores ópticos TCRT5000</a>, responsáveis por fazer a detecção da linha, <a href="https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf">sensores de distância ultrassônicos HC-SR04</a>, responsáveis pela detecção de obstáculos, <a href="https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf">Arduino UNO</a>, para o controle e processamento de dados, e o <a href="https://www.filipeflop.com/produto/driver-motor-ponte-h-l298n/">Driver Motor ponte-H L298N</a>, responsável por fazer o acionamento dos motores DC.
 </p>
 <br>
-<img src="">
- 
+<img src="https://user-images.githubusercontent.com/86898996/164798833-40789bc1-d369-4f58-a18b-fcee09c77d56.png">
+
+### Assistir ao vídeo de funcionamento do VSL-TS
+<a href="https://youtu.be/_h_vWjWKDpU"><img src=""></a>
+
+### Desenvolvedores
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O AGV VSL-TS foi desenvolvido no ano de 2019, por um grupo composto por: Luiz Otávio de Oliveira Domingos, Ryan Alves Mazzeu, Samuel Bárbara e Thiago Batista Araújo. Todos os integrantes do grupo tiveram interferência em todos os setores do projeto (mecânica, eletrônica e software).
+</p>
